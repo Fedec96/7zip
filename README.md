@@ -4,7 +4,7 @@
 
 This is only a GitHub mirror for Igor Pavlov's (ipavlov) 7-Zip source code, that can be found [here](https://sourceforge.net/projects/sevenzip/files/7-Zip/21.06/). I am *not* the author of 7-Zip.
 
-Currently version 21.06.
+Currently version 21.07.
 
 ## License
 
